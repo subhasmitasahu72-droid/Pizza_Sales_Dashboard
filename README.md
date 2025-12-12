@@ -4,7 +4,6 @@
 📌 Project Overview
 
 This Power BI dashboard provides a comprehensive analysis of pizza sales from January 2015 to December 2015.
-
 It helps business stakeholders understand revenue performance, customer purchasing patterns, best & worst-selling pizzas, and trends across days, months, categories, and sizes.
 
 📊 Key Metrics
