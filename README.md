@@ -156,4 +156,4 @@ Contributions, issues, and feature requests are welcome — feel free to open a 
 
 ---
 
-> _If you want an HTML README (GitHub Pages friendly) with interactive features — I can provide a sanitized version that avoids `<head>` tags and works well on GitHub. Which would you prefer: **Markdown** (this) or a **sanitized HTML**?_ 
+
