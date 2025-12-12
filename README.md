@@ -1,11 +1,16 @@
 🍕 Pizza Sales Report – Power BI Dashboard
+
+
 📌 Project Overview
 
 This Power BI dashboard provides a comprehensive analysis of pizza sales from January 2015 to December 2015.
+
 It helps business stakeholders understand revenue performance, customer purchasing patterns, best & worst-selling pizzas, and trends across days, months, categories, and sizes.
 
 📊 Key Metrics
+
 Metric	Value	Description
+
 Total Revenue	817.86K	Total earnings generated from all pizza sales.
 Average Order Value	38.31	Average revenue per order.
 Total Pizzas Sold	50K	Quantity of pizzas sold across all categories.
